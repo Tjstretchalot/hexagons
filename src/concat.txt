@@ -1,0 +1,4 @@
+file 'media/videos/basic_hexagon/1080p60/BasicHexagon.mp4'
+file 'media/videos/adv_hexagon/1080p60/AdvancedHexagon.mp4'
+file 'media/videos/transformed_hexagon_math/1080p60/TransformedHexagonMath.mp4'
+file 'media/videos/q_even_indexer/1080p60/QEvenIndexer.mp4'
